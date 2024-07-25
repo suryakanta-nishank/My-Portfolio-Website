@@ -30,8 +30,9 @@ I specialize in HTML, CSS, JavaScript, and Bootstrap, with a good grasp of data 
 ## Contact
 Feel free to reach out for collaboration or inquiries!
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-profile)
+- **Email:** [Suryababul04@gmail.com](suryababul04@gmail.com)
+- **LinkedIn:** [Suryakanta Nishank](www.linkedin.com/in/suryakanta-nishank-696969pc)
+
+
 
 Thank you for visiting my portfolio!
